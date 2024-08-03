@@ -1,14 +1,12 @@
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
-import PhotoGrid from './PhotoGrid';
-import '../styles/CustomerDetails.css';
+import React from "react";
+import PhotoGrid from "./PhotoGrid";
+import "../styles/CustomerDetails.css";
 
 const CustomerDetails = ({ customer }) => {
   return (
-    <div className="customer-details">
-      <h2>{customer.name}</h2>
-      <p>{customer.title}</p>
-      <p>{customer.address}</p>
+    <div className="customer-details-container">
+      <h2>{customer?.name}</h2>
+      <p>{customer?.title}</p>
       <PhotoGrid customer={customer} />
     </div>
   );

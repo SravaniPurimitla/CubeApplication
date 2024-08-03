@@ -1,4 +1,16 @@
-.customer-details {
-  width: 75%;
+.customer-details-container {
+  flex: 1;
   padding: 20px;
+  width: 100%;
+}
+
+.customer-details-container h2 {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.customer-details-container p {
+  margin-bottom: 20px;
 }

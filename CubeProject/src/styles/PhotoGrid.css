@@ -2,8 +2,23 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
+  padding: 20px;
 }
+
 .photo-grid img {
   width: 100%;
-  height: auto;
+  height: 250px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+@media (max-width: 768px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .photo-grid {
+    grid-template-columns: 1fr;
+  }
 }
