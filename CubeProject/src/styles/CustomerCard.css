@@ -1,0 +1,7 @@
+.customer-card {
+  padding: 10px;
+  cursor: pointer;
+}
+.customer-card:hover, .customer-card.active {
+  background-color: #f0f0f0;
+}

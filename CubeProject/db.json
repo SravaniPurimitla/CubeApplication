@@ -1,0 +1,24 @@
+{
+  "customers": [
+    { "id": 1, "name": "Customer 01", "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic"},
+    { "id": 2, "name": "Customer 02", "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic"},
+    { "id": 3, "name": "Customer 03", "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic"},
+    { "id": 4, "name": "Customer 04", "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic"},
+    { "id": 5, "name": "Customer 05", "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic"},
+    { "id": 6, "name": "Customer 06", "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic"},
+    { "id": 7, "name": "Customer 07", "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic"},
+    { "id": 8, "name": "Customer 08", "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic"}
+  ],
+  "photos": [
+    { "id": 1, "url": "https://picsum.photos/200/300?random=1" },
+    { "id": 2, "url": "https://picsum.photos/200/300?random=2" },
+    { "id": 3, "url": "https://picsum.photos/200/300?random=3" },
+    { "id": 4, "url": "https://picsum.photos/200/300?random=4" },
+    { "id": 5, "url": "https://picsum.photos/200/300?random=5" },
+    { "id": 6, "url": "https://picsum.photos/200/300?random=6" },
+    { "id": 7, "url": "https://picsum.photos/200/300?random=7" },
+    { "id": 8, "url": "https://picsum.photos/200/300?random=8" },
+    { "id": 9, "url": "https://picsum.photos/200/300?random=9" },
+    { "id": 10, "url": "https://picsum.photos/200/300?random=10" }
+  ]
+}
